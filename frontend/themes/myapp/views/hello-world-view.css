@@ -1,0 +1,9 @@
+.hello-world-view {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.hello-world-view .map {
+  flex: 1;
+}
